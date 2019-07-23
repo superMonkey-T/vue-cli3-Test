@@ -74,7 +74,7 @@ export default {
       // })
     },
   //   获取详细报告信息
-	//  * https://alife.chicyuanzui.com/app/index.php?i=4&c=entry&a=wxapp&do=gettestcontentlist&m=chic_echomodel&openid=olj9d5TPjsCMZCR9xkZhtPvVQecU
+	//  * https://alife.****.com/app/index.php?i=4&c=entry&a=wxapp&do=gettestcontentlist&m=chic_echomodel&openid=****
 	//  * openid test_content_id
   //   getData(){
 
