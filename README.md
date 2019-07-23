@@ -1,4 +1,5 @@
 # vue-test
+项目使用vue-cli3+iview+ts+echarts搭建
 
 ## Project setup
 ```
