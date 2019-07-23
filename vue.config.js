@@ -7,7 +7,7 @@
 //     open: false, //项目启动时是否自动打开浏览器，我这里设置为false,不打开，true表示打开
 //     proxy: {
 //       '/app': {
-//         target: 'http://life.chicyuanzui.com',
+//         target: 'http://www.baidu.com',
 //         changeOrigin: true,
 //         ws: true,
 //         pathRewrite: {
